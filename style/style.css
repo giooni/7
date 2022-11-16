@@ -1,0 +1,283 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+
+}
+ .flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;}
+
+header{
+    width: 100%;
+    padding:48px 88px 20px 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+header nav{
+    width: 564px;
+    height: 42px;
+    padding-top:10px;
+    
+}
+
+header nav ul a{
+    
+    color: black;
+    text-transform: capitalize;
+    font-size: 20px;
+    
+    
+    
+}
+header p{
+    font-size: 20px;
+}
+    
+    
+
+button{
+    width: 180px;
+    height: 52px;
+    color: black;
+    background-color: yellow;
+    border:none;
+    border-radius: 30px;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: capitalize;
+
+
+
+
+}
+.one{
+    color: black;
+}
+.art1{
+    margin-left: 50px;
+
+}
+
+.pg1{
+    width: 466px;
+    height: 180px;
+    font-size: 60px;
+    flex-wrap: wrap;
+    
+}
+.txt1{
+    width: 394px;
+    height: 90px;
+    font-size: 20px;
+    flex-wrap: wrap;
+    color: rgba(119, 119, 118, 1);
+}
+.surati{
+    width: 840px;
+    height: 700px;
+    margin-right: 40px;
+    overflow: hidden;
+}
+.img{
+    width: 100%;
+    
+}
+.about{
+    flex-wrap: wrap;
+}
+.surati1{
+    width: 676px;
+    height:506px;
+    margin-left:40px;
+    overflow: hidden;
+    
+}
+.img1{
+    width:100%;
+}
+.art2{
+    margin-right: 40px;
+
+}
+.art2 h2{
+    width: 460px;
+    height: 136px;
+    font-size: 40px;
+    flex-wrap: wrap;
+}
+.art2 p{
+    width: 510px;
+    flex-wrap: wrap;
+    color: rgba(119, 119, 118, 1);
+}
+.art3{
+    margin-left: 40px;
+    
+}
+.art3 h2{
+    font-size: 40px;
+    width: 330px;
+    height: 126px;
+    flex-wrap: wrap;
+}
+.art3 p{
+    width: 500px;
+    height: 120px;
+    flex-wrap: wrap;
+    color: rgba(119, 119, 118, 1);
+}
+
+.surati2{
+    width: 680px;
+    height: 490px;
+    margin-right:40px ;
+    overflow: hidden;
+}
+.img2{
+    width: 100%;
+}
+.pg3{
+    width: 380px;
+    height: 120px;
+    flex-wrap: wrap;
+    margin: 50px auto;
+    font-size: 40px;
+    text-align: center;
+}
+.kvadrtati{
+    width:100%;
+    display: flex;
+    
+
+ 
+
+}
+.kvadratuna{
+    width:380px;
+    height: 380px;    
+    margin-left: 50px;
+    
+}
+.kvadratuna h3{
+    margin-top: 34px;
+    margin-bottom: 34px;
+    font-size: 20px;
+    font-weight: bolder;
+    text-align: center;
+}
+.surati3{
+    width: 202px;
+    height: 122px;
+    overflow: hidden;
+    margin: 34px auto;
+
+}
+.img3{
+    width: 100%;
+}
+
+.kvadratuna p{
+    color: black;
+    font-weight: 600;
+    text-align: center;
+}
+.statia{
+    color: rgba(119, 119, 118, 1);
+    width: 236px;
+    height: 46px;
+    margin: 34px auto;
+}
+.surati6{
+    width:544px;
+    height: 498px;
+    overflow: hidden;
+    margin-left: 50px;
+    margin-top: 160px;
+    margin-bottom: 100px;
+}
+.art5{
+    width: 440px;
+    height: 126px;
+    flex-wrap: wrap;
+    font-size: 40px;
+    margin-right: 70px;
+    margin-bottom: 100px;
+}
+.art5 button a{
+    color: black;
+}
+.art5 p{
+    color: rgba(119, 119, 118, 1);
+    width: 510px;
+    height: 96px;
+    font-size: 20px;
+}
+.art6{
+    width: 350px;
+    height: 124px;
+    margin-left: 100px;
+    margin-top: 200px;
+    margin-bottom: 100px;
+}
+.art6 h2{
+    font-size: 40px;
+}
+.art6 p{
+    font-size: 20px;
+    color:rgba(119, 119, 118, 1);
+}
+.con{
+    width: 280px;
+    height: 150px;
+    margin-top: 200px;
+
+}
+.con li{
+    line-height: 40px;
+}
+.con1{
+    margin-top: 200px;
+    margin-right: 100px;
+}
+.contact{
+    width:100%;
+    height: 450px;
+    background-color:rgba(254, 227, 149, 1) ;
+    text-transform: capitalize;
+
+}
+.art{
+    width:182 px;
+    height: 98px;
+    margin-top: 100px;
+    margin-left: 110px;
+    
+
+}
+.art h2{
+    font-weight:bolder ;
+}
+.art ul li{
+    color: rgba(119, 119, 118, 1);
+    flex-wrap: wrap;
+    margin-top: 22px;
+
+
+}
+.brands{
+    width:160px;
+    height:28px;
+    margin-right: 100px;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+.brands p{
+    font-size: 28px;
+}
